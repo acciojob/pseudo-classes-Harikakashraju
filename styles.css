@@ -1,8 +1,6 @@
 /*  your css code here. If applicable */
-.Container{
+html{
 background-color: rgb(135, 206, 235);
-	width: 500px;
-	height: 400px;
 }
 p:first-child{
 background-color: black;
